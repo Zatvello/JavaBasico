@@ -1,0 +1,117 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OlaMundoJavaFX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OlaMundoJavaFX_jar</output-path>
+    <root id="archive" name="OlaMundoJavaFX.jar">
+      <element id="module-output" name="OlaMundoJavaFX" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.6/javafx-graphics-17.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.6/javafx-graphics-17.0.6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.6/javafx-base-17.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.6/javafx-controls-17.0.6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.6/javafx-fxml-17.0.6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.6/javafx-controls-17.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.6/javafx-base-17.0.6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.6/javafx-fxml-17.0.6.jar" path-in-jar="/" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-console-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-datetime-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-debug-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-errorhandling-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-file-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-file-l1-2-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-file-l2-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-handle-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-heap-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-interlocked-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-libraryloader-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-localization-l1-2-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-memory-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-namedpipe-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-processenvironment-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-processthreads-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-processthreads-l1-1-1.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-profile-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-string-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-synch-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-synch-l1-2-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-sysinfo-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-timezone-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-core-util-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-conio-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-convert-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-environment-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-filesystem-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-heap-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-locale-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-math-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-multibyte-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-private-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-process-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-runtime-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-stdio-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-string-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-time-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/api-ms-win-crt-utility-l1-1-0.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/attach.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/awt.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/bci.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/concrt140.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/dcpr.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/decora_sse.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/deploy.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/dt_shmem.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/dt_socket.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/fontmanager.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/fxplugins.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/glass.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/glib-lite.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/gstreamer-lite.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/hprof.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/instrument.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/j2pcsc.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/j2pkcs11.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/jaas_nt.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/java.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/java_crw_demo.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/JavaAccessBridge-64.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/javafx_font.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/javafx_font_t2k.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/javafx_iio.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/jawt.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/JAWTAccessBridge-64.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/jdwp.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/jfr.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/jfxmedia.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/jfxwebkit.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/jli.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/jpeg.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/jsdt.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/jsound.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/jsoundds.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/kcms.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/lcms.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/management.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/mlib_image.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/msvcp140.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/msvcr100.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/net.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/nio.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/npt.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/prism_common.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/prism_d3d.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/prism_sw.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/resource.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/sawindbg.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/splashscreen.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/sunec.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/sunmscapi.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/t2k.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/ucrtbase.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/unpack.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/vcruntime140.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/verify.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/w2k_lsa_auth.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/WindowsAccessBridge-64.dll" />
+      <element id="file-copy" path="$JAVAFX8.5.0$/runtime/bin/zip.dll" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="classes.telaIdade">
+  <grid id="27dc6" binding="MainPanel" layout-manager="GridLayoutManager" row-count="9" column-count="9" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="846" height="447"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="5883b" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="8" row-span="9" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <icon value="imagens/149071.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="e7da9" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="4" col-span="7" vsize-policy="0" hsize-policy="0" anchor="10" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="149" height="17"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="  Ano de nascimento"/>
+        </properties>
+      </component>
+      <component id="636c7" class="javax.swing.JSpinner" binding="txtAN">
+        <constraints>
+          <grid row="4" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="1" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="108" height="30"/>
+          </grid>
+        </constraints>
+        <properties>
+          <doubleBuffered value="false"/>
+          <focusTraversalPolicyProvider value="false"/>
+        </properties>
+      </component>
+      <component id="52d96" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="  No fim do ano, sua idade será:"/>
+        </properties>
+      </component>
+      <component id="7c0ef" class="javax.swing.JButton" binding="btnCalc">
+        <constraints>
+          <grid row="6" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <icon value="imagens/Martz90-Circle-Calculator.32.png"/>
+          <text value=" Calcular"/>
+        </properties>
+      </component>
+      <component id="b641f" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="9" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="  Ano Atual:"/>
+        </properties>
+      </component>
+      <component id="3ab8b" class="javax.swing.JLabel" binding="lblAno">
+        <constraints>
+          <grid row="1" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="1" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22"/>
+          <foreground color="-15718171"/>
+          <text value="???"/>
+        </properties>
+      </component>
+      <component id="9398" class="javax.swing.JLabel" binding="lblIdade">
+        <constraints>
+          <grid row="7" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22"/>
+          <foreground color="-15718171"/>
+          <text value="???"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
